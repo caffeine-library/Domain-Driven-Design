@@ -6,6 +6,3 @@ labels: chapter
 assignees: emiling, wooyounggggg, JasonYoo1995, leejaeseung
 
 ---
-
-## 제목
-${장 번호}장 - ${장 제목}
