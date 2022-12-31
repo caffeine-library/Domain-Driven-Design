@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/66045861/209320305-4768482c-1a7d-4841-840d-8b25a93f1f1d.png" width="400"/>
 
 ## 약속 👍
-❗ 각 사람은 매주 keyword, summary, question에 대한 comment 1개 이상, 또는 additional issue 1개 이상을 등록을 해야합니다
+❗ 각 사람은 매주 keyword, question에 대한 comment 1개 이상, 또는 additional issue 1개 이상을 등록을 해야합니다
 
 ## 스터디 일정
 - 2023.01.08 ~ 2023.05.28
