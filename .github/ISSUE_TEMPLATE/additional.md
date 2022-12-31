@@ -3,7 +3,7 @@ name: additional
 about: 본 챕터와 관련이 있지만 책에는 없는 내용을 스스로 조사하여 발표하기 위한 템플릿입니다
 title: "[additional]"
 labels: additional
-assignees: ''
+assignees: wooyounggggg, leejaeseung, emiling, kth990303, JasonYoo1995
 
 ---
 
