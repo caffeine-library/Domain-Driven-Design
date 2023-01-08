@@ -3,7 +3,7 @@ name: question
 about: 책을 읽는 과정에서 생긴 질문을 위한 템플릿입니다
 title: "[question]"
 labels: question
-assignees: 'wooyounggggg, leejaeseung, emiling, kth990303, JasonYoo1995'
+assignees: wooyounggggg, leejaeseung, emiling, kth990303, JasonYoo1995
 
 ---
 
