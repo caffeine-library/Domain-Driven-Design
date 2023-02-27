@@ -2,7 +2,7 @@
 name: discussion
 about: 특정 주제에 대한 토론 진행을 발의하기 위한 템플릿입니다
 title: "[discussion]"
-labels: ''
+labels: discussion
 assignees: wooyounggggg, leejaeseung, emiling, kth990303, JasonYoo1995
 
 ---
