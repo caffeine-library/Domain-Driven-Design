@@ -7,6 +7,9 @@ assignees: wooyounggggg, leejaeseung, emiling, kth990303, JasonYoo1995
 
 ---
 
+## 토론 주제
+${토론 주제}
+
 ## 토론 내용
 
 ${토론 상세 내용}
